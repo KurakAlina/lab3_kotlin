@@ -10,6 +10,7 @@ import com.raywenderlich.android.lab1.router.Screen
 
 private val items = listOf(
     BookCategory(
+        R.string.android,
         listOf(
             R.drawable.android_aprentice,
             R.drawable.saving_data_android,
